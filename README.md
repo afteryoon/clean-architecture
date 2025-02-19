@@ -1,3 +1,7 @@
+[bolg 정리 ]([https://reflectoring.io/spring-hexagonal/](https://velog.io/@afteryoon/series/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+
+
+
 # Example Implementation of a Hexagonal Architecture
 
 [![CI](https://github.com/thombergs/buckpal/actions/workflows/ci.yml/badge.svg)](https://github.com/thombergs/buckpal/actions/workflows/ci.yml)
